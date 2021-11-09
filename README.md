@@ -10,5 +10,6 @@ Flown SpaceX launch vehicles <em>
  ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing\_1.gif)
   <br>
   
- * Data Collection API<br>
+ * Data Collection with API
+ * Data Collection with Webscraping
 
