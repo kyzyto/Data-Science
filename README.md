@@ -12,5 +12,5 @@ Flown SpaceX launch vehicles <em>
   
  * Data Collection with API
  * Data Collection with Webscraping
-  * Exploratory Data Science
-  *
+ * Exploratory Data Science with Structured Query Language
+ * Exploratory Data Science with Python
