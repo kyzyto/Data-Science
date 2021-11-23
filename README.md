@@ -16,3 +16,4 @@ Flown SpaceX launch vehicles <em>
  * Exploratory Data Analysis with Python
  * Exploratory Data Analysis with Data Visualisation
  * Machine Learning Prediction
+ * Interactive Visual Analytics with Folium
