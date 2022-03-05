@@ -16,7 +16,7 @@ Flown SpaceX launch vehicles <em>
  * Exploratory Data Analysis with Python
  * Exploratory Data Analysis with Data Visualisation
  * Machine Learning Prediction
- * Interactive Visual Analytics with Folium
+ * Interactive Visual Analytics with Folium*
 
   ### Auxillary and Context
   I used industry grade tools and technical skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, AI development, research & development, predictive modeling, and machine learning algorithms.
