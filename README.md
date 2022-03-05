@@ -18,8 +18,10 @@ Flown SpaceX launch vehicles <em>
  * Machine Learning Prediction
  * Interactive Visual Analytics with Folium
 
-  ### Auxillary and Context
-  I used industry grade tools and technical skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, AI development, research & development, predictive modeling, and machine learning algorithms.
+### Auxillary and Context
+In order to get the IBM Data Science Professional Certificate I displayed experience in foundation, methodologies, analysis, and research and development of data and communication of results to make informed data driven decisions.
+  
+Gained industry grade experience in tools and technical skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, Artificial Intelligence development, research & development, predictive modeling, and machine learning algorithms.
   
   Technical skills;
   - Python Programmming and modules(i.e Pandas, NumPy, Matplotlib, Seaborn, Folium, tensorflow, keras, ipython-sql, Scikit-learn, ScipPy, etc)
@@ -28,4 +30,5 @@ Flown SpaceX launch vehicles <em>
   - Recommendation Systems
   - Predictive Modeling
   - Classifiers
+  - Classification
   - Dashboards and interactive mas
