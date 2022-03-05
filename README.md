@@ -24,6 +24,7 @@ Flown SpaceX launch vehicles <em>
   Technical skills;
   - Python Programmming and modules(i.e Pandas, NumPy, Matplotlib, Seaborn, Folium, tensorflow, keras, ipython-sql, Scikit-learn, ScipPy, etc)
   - Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio, IBM Cloud Services
+  - Advanced SQL(i.e DDL and DML)
   - Recommendation Systems
   - Predictive Modeling
   - Classifiers
