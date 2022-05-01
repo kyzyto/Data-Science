@@ -31,4 +31,4 @@ Gained industry grade experience in tools and technical skills, including open s
   - Predictive Modeling
   - Classifiers
   - Classification
-  - Dashboards and interactive mas
+  - Dashboards and interactive maps
